@@ -58,8 +58,8 @@ This project is an interactive score summary card designed to display scores in 
 
 ## External Links
 
-- **GitHub**: [Profile](https://github.com/your-username)
-- **LinkedIn**: [Profile](https://www.linkedin.com/in/your-profile)
+- **GitHub**: [Profile](https://github.com/AdeobaAdedayo18)
+- **LinkedIn**: [Profile](https://www.linkedin.com/in/adeoba-adedayo-7b078b29b/)
 
 ## License
 
@@ -72,4 +72,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Feel free to customize this `README.md` file according to your specific details and requirements.
+
